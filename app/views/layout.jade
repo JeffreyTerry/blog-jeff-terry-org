@@ -1,0 +1,47 @@
+doctype 5
+html(lang='en')
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width')
+    link(rel="shortcut icon", href="/imgs/jefficon.png", type="image/x-icon")
+    link(rel="icon", href="/imgs/jefficon.png", type="image/x-icon")
+    title= title
+    link(rel='stylesheet', href='/styles/fonts.css')
+    link(rel='stylesheet', href='/styles/global.css')
+    link(rel='stylesheet', href='/components/font-awesome/css/font-awesome.min.css')
+    link(rel='stylesheet', href='/components/bootstrap/dist/css/bootstrap.min.css')
+    link(rel='stylesheet', href='/components/animate-css/animate.min.css')
+    script(type='text/javascript', src='/components/jquery/dist/jquery.min.js')
+    script(type='text/javascript', src='/components/jquery.transit/jquery.transit.js')
+    script(type='text/javascript', src='/components/bootstrap/dist/js/bootstrap.min.js')
+    script(type='text/javascript', src='/js/global.js')
+
+    script(src='http://localhost:35729/livereload.js')
+
+    block css
+    block js
+  
+  body
+    - most_recent_posts = most_recent_posts || []
+    - posts = posts || []
+    div.container-fluid
+      div.banner
+        div.row
+          each post in most_recent_posts
+            include ./includes/banner-box
+        div.row
+          div.col-xs-12.banner-title
+            h1.blog-title
+              a(href='/') THE REAL JT
+    div.container-fluid(style='padding-top: 40px; padding-bottom: 60px')
+      div.row
+        div.col-md-8.col-md-offset-1
+          block content
+        div.col-md-2
+          include ./includes/posts-sidebar
+    div.container-fluid
+      div.row
+        div.col-xs-12(style='padding-left: 0; padding-right: 0')
+          include global/footer
+
+

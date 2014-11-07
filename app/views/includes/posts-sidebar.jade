@@ -1,0 +1,9 @@
+div.posts-sidebar
+  h3 Recent posts
+  div
+    each post in posts
+      a.posts-sidebar-link(href='/post/' + post.title)
+        != post.headline
+        br
+
+

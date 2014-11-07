@@ -1,0 +1,14 @@
+extends layout
+
+block css
+  link(rel='stylesheet', href='/styles/post.css')
+
+block content
+  div.post
+    h1= post.headline
+    div.post-date #{post.date.getMonth()+1}.#{post.date.getDate()}.#{post.date.getFullYear()}
+    div.post-content.blog-text
+      != post.content
+
+block js
+  script(type='text/javascript', src='/js/post.js')
