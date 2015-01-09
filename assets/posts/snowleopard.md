@@ -1,8 +1,8 @@
 {{{
     "title"    : "snowleopard",
-    "tags"     : [ "jquery" ],
-    "category" : "jquery",
-    "date"     : "7-10-2012",
+    "tags"     : [ "cats" ],
+    "category" : "cats",
+    "date"     : "11-6-2014",
     "headline" : "This man gave his last good arm to a homeless man.",
     "image"    : "imgs/post/test3.jpeg"
 }}}

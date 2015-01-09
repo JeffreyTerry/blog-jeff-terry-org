@@ -1,7 +1,7 @@
 {{{
     "title"    : "tiger",
-    "tags"     : [ "jquery" ],
-    "category" : "jquery",
+    "tags"     : [ "cats" ],
+    "category" : "cats",
     "date"     : "11-6-2014",
     "headline" : "But have you ever actually seen a tiger?",
     "image"    : "imgs/post/test.jpeg"

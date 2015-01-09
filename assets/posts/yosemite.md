@@ -1,8 +1,8 @@
 {{{
     "title"    : "yosemite",
-    "tags"     : [ "jquery" ],
-    "category" : "jquery",
-    "date"     : "7-10-2012",
+    "tags"     : [ "cats" ],
+    "category" : "cats",
+    "date"     : "11-6-2014",
     "headline" : "Why Yosemite?",
     "image"    : "imgs/post/test1.jpeg"
 }}}
