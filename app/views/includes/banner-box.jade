@@ -3,6 +3,6 @@ div.col-sm-3.hidden-xs.banner-box-col
     div.banner-box-container(style='background-image: url("../../' + post.image + '");')
       div.cover
       div.banner-box-title
-        != post.headline
+        != post.headline.substring(0, 35)
 
 
