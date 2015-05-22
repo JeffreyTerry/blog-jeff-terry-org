@@ -1,7 +1,7 @@
 {{{
     "title"    : "changes",
     "tags"     : [ "changes" ],
-    "category" : "changes",
+    "category" : "personal",
     "date"     : "1-2-2015",
     "headline" : "8 Things That Will Change the Way You Think about the Way I've Changed in the Last 8 Weeks",
     "image"    : "imgs/post/changes.jpeg"

@@ -1,7 +1,7 @@
 {{{
     "title"    : "giraffes",
     "tags"     : [ "giraffes", "sweat", "drivers" ],
-    "category" : "changes",
+    "category" : "existential",
     "date"     : "5-11-2015",
     "headline" : "Giraffes are bigger than people who drive cars.",
     "image"    : "imgs/post/giraffeasaur.jpg"
