@@ -7,10 +7,6 @@
     "image"    : "imgs/post/programmingmagic.png"
 }}}
 
-This is the first part of a two-part post.
-<br />
-<br />
-<br />
 People often tell me that they want to learn how to program computers. Then they ask me which programming language they should learn first. Usually I mumble something about tradeoffs and preferences and point them towards Python, but the truth is, I don’t know which programming language people should learn first.<sup><a href="#sup1" class="dark-link">1</a></sup> Every language has advantages and disadvantages. Depending on a person’s reasons for wanting to learn how to program, I might recommend C, Java, Python, or JavaScript. What's more, somebody else might recommend that they learn C++, C#, Ruby, or PHP. This, of course, begs a few questions. First, what actually makes each of these languages different, and second, why is one’s first language important? Furthermore, why is there no consensus about which language people should learn first? I will spend the next part of this post explaining the major differences between C, Java, and Python. I have chosen look at these languages because they are among the most commonly used languages<sup><a href="#sup2" class="dark-link">2</a></sup>, and because they differ from each other in important ways.
 
 ###C, Java, or Python?
@@ -73,9 +69,6 @@ Like most analogies, my analogy between love and programming languages falls sho
 People usually disagree about which language is best for beginners because all beginners are different. And all languages are different. Languages like Python and Ruby are really great for beginners, but they typically run a bit more slowly than other languages and aren't well-suited for some purposes. Languages like C and C++ are great because they run quickly and force new programmers to learn a few details about computers, but they’re also very difficult to learn and, like Python and Ruby, they aren’t well-suited for some purposes. Languages like Java and C# are great because they’re ubiquitous and force programmers to learn object-oriented design, but they’re fairly difficult to learn and also aren't well-suited for some purposes. So when people vacillate between recommending Python or Ruby or Java or C# or C++ or C, or when two people give contrasting recommendations, what they’re really saying is, “We don’t know which language people should learn first.”
 
 For most people, I recommend learning Python first. I think the majority of the programming community backs me up on this. If you are inclined to learn how to program, it might help to look at <a href="#sup4" class="dark-link">footnote #5</a> for links to more information on the topic.
-<br />
-<br />
-Part two of this post will explore other aspects of learning how to program. It will look specifically at strategies and attitudes that have helped me learn how to program.
 <br />
 <br />
 ***
