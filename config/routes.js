@@ -5,7 +5,7 @@ module.exports = function(app, config){
     var Poet = require('poet');
     var poet = Poet(app, {
       posts: __dirname + '/../public/posts/',
-      postsPerPage: 5,
+      postsPerPage: 10,
       metaFormat: 'json'
     });
 
