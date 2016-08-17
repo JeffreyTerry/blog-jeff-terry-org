@@ -1,5 +1,5 @@
 {{{
-    "title"    : "thoughts-8-16-2016",
+    "title"    : "writingagain",
     "tags"     : [ "thoughts", writing", "narrative" ],
     "category" : "existential",
     "date"     : "8-16-2016",
