@@ -1,10 +1,10 @@
 {{{
     "title"    : "writingagain",
-    "tags"     : [ "thoughts", writing", "narrative" ],
-    "category" : "existential",
+    "tags"     : [ "cats" ],
+    "category" : "cats",
     "date"     : "8-16-2016",
-    "headline" : "I'm writing again",
-    "image"    : "imgs/post/thought-bubble.png"
+    "headline" : "I'm Writing Again",
+    "image"    : "imgs/post/thoughtbubble.png"
 }}}
 
 I haven’t voluntarily written since June. Now, when I write, I feel myself struggling. I don’t struggle to write sentences. No, I can write those just find. My verbs take their natural places next to my nouns, and my nouns next to my adjectives. I struggle, though, to tie my sentences together. I struggle to construct those arcs of narrative described so eloquently by Steven Pinker in his The Sense of Style and present, I believe, in all compelling writing.
